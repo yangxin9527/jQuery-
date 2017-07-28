@@ -1,3 +1,16 @@
+fork from chokcoco/jQuery-
+mytest文件夹为个人测试以及总结笔记
+参考 
+- chokcoco/jQuery-
+- 慕课网 《jQuery源码解析》
+- csdn相关博客文章
+
+
+
+
+
+chokcoco/jQuery- 原本的README
+
 # jQuery- v1.10.2 源码解读
 
 `jQuery` 源码中，中文注释是我的解读 ，才疏学浅，注释若有不正之处，万望告知。
